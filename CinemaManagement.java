@@ -37,7 +37,7 @@ class Movie {
     public String toString() {
         return "Movie{" +
                 "title='" + title + '\'' +
-                ", duration=" + duration + " phut" +
+                ", duration=" + duration + " minutes" +
                 ", rating=" + rating +
                 '}';
     }
